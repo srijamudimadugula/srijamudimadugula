@@ -1,4 +1,4 @@
-Hello👋, Machine Learning Engineer in training.
+Hello👋, Machine Learning Engineer.
 
 Building ML systems while strengthening the mathematical and computational foundations behind them.
 
